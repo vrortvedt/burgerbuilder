@@ -103,8 +103,4 @@ class BurgerBuilder extends Component {
     }
 }
 
-<<<<<<< HEAD
 export default BurgerBuilder;
-=======
-export default BurgerBuilder;
->>>>>>> 3d226ed133cbf6bfc75f7f40ae0140efddee41b3
