@@ -19,4 +19,8 @@ const orderSummary = (props) => {
     )
 };
 
+<<<<<<< HEAD
 export default orderSummary;
+=======
+export default orderSummary;
+>>>>>>> 3d226ed133cbf6bfc75f7f40ae0140efddee41b3

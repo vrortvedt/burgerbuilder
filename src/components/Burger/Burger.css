@@ -22,7 +22,11 @@
     }
 }
 
+<<<<<<< HEAD
 @media (max-width: 500px) and (max-height: 400px) {
+=======
+@media (min-width: 500px) and (max-height: 400px) {
+>>>>>>> 3d226ed133cbf6bfc75f7f40ae0140efddee41b3
     .Burger {
         width: 350px;
         height: 300px;

@@ -13,4 +13,8 @@ const buildControl = (props) => (
     </div>
 );
 
+<<<<<<< HEAD
 export default buildControl;
+=======
+export default buildControl;
+>>>>>>> 3d226ed133cbf6bfc75f7f40ae0140efddee41b3
