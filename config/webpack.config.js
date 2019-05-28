@@ -401,12 +401,9 @@ module.exports = function(webpackEnv) {
               use: getStyleLoaders({
                 importLoaders: 1,
                 modules: true,
-<<<<<<< HEAD
                 localIdentName: '[name]__[local]__[hash:base64:5]',
                 sourceMap: isEnvProduction && shouldUseSourceMap,
-=======
                 localIdentName: '[name]__[local]__[hash:base64:5]'
->>>>>>> 3d226ed133cbf6bfc75f7f40ae0140efddee41b3
               }),
               // Don't consider CSS imports dead code even if the
               // containing package claims to have no side effects.
